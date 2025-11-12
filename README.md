@@ -51,8 +51,8 @@ Secure login/registration app with **JWT authentication** and **SHA-256 password
 *Tech:* Flask, SQLite, JWT  
 
 ### 🔹 [NIC Decoder](https://github.com/chathuri2/find_nicdecode)
-Flutter-based mobile app that extracts and displays key details from Sri Lankan National Identity Card (NIC) numbers.  
-*Tech:* Flutter, Dart, Android, iOS, Git  
+Mobile app that extracts and displays key details from a Sri Lankan National ID number.  
+*Tech:* Flutter, Dart, Android, iOS  
 
 ---
 
